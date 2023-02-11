@@ -1,1 +1,0 @@
-Hello! Welcome to my capstone project for the Back-end Developer Certification from Coursera, by Meta. 
